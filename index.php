@@ -2377,8 +2377,8 @@
               <!-- plan-sub -->
               <p class="plan-sub">When you need just one site.</p>
               <!-- plan-price -->
-              <div class="plan-price">$55.59</div>
-              <div class="plan-price-sub">Normally $55.59 - 1/mo term</div>
+              <div class="plan-price">$65.59</div>
+              <div class="plan-price-sub">Normally $65.59 - 1/mo term</div>
               <!-- hr -->
               <hr class="my-2">
               <!-- plan-link -->
