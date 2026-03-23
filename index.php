@@ -2758,11 +2758,10 @@
             </div>
           </div>
         </div>
-        <!-- row 2: V10 and V12 aligned under plan cards -->
+        <!-- row 2: V10 and V12 full-width -->
         <div class="row mt-2">
-          <div class="col-xl-3 d-none d-xl-block"></div>
           <!-- col -->
-          <div class="col-xl-2 col-md-6 mb-xl-0 mb-2">
+          <div class="col-xl-6 col-md-6 mb-xl-0 mb-2">
             <!-- plan -->
             <div class="plan">
               <!-- plan-title -->
@@ -2832,7 +2831,7 @@
             </div>
           </div>
           <!-- col -->
-          <div class="col-xl-2 col-md-6 mb-xl-0 mb-2">
+          <div class="col-xl-6 col-md-6 mb-xl-0 mb-2">
             <!-- plan -->
             <div class="plan">
               <!-- plan-title -->
