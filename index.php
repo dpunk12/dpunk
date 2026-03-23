@@ -2482,79 +2482,68 @@
             <!-- plan -->
             <div class="plan">
               <!-- plan-title -->
-              <h4 class="plan-title">Start</h4>
+              <h4 class="plan-title">V2.USA</h4>
               <!-- plan-sub -->
-              <p class="plan-sub">When you need just one site.</p>
+              <p class="plan-sub">Starting from</p>
               <!-- plan-price -->
-              <div class="plan-price">$7.49</div>
-              <div class="plan-price-sub">Normally $7.49 - 1/mo term</div>
+              <div class="plan-price">$20.00</div>
+              <div class="plan-price-sub">Monthly</div>
               <!-- hr -->
               <hr class="my-2">
               <!-- plan-link -->
-              <a href="https://my.lurstanhost.com/store/cloud-vps/start" class="theme-btn --fill-primary w-100">Buy Now</a>
+              <a href="https://my.lurstanhost.com/store/rdp/v2-usa" class="theme-btn --fill-primary w-100">Buy Now</a>
               <!-- fea-sec -->
               <div class="fea-sec">
                 <!-- fea-title -->
                 <h5 class="fea-title">Top Features</h5>
                 <!-- item -->
                 <div class="item">
-                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">1 Core Processor
-                  
+                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">Virtualization : KVM
+                </div>
+                <!-- item -->
+                <div class="item">
+                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">2 Core Processor
                 </div>
                 <!-- item -->
                 <div class="item">
                   <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">2 GB DDR4 Memory
-                  
                 </div>
                 <!-- item -->
                 <div class="item">
-                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">50 GB Space
-                  
-                </div>
-                
-                  <!-- item -->
-                <div class="item">
-                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">1TB Bandwidth
-                  
+                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">40 GB Disk Space
                 </div>
                 <!-- item -->
                 <div class="item">
-                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">125 Mbps Port Speed
+                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">1 TB Bandwidth
                 </div>
-               
+                <!-- item -->
+                <div class="item">
+                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">10 Gbps Port Speed
+                </div>
               </div>
-            
               <div class="fea-sec">
                 <!-- fea-title -->
                 <h5 class="fea-title">Also Includes</h5>
-               
                 <!-- item -->
                 <div class="item">
                   <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">Operating System
-                  
                 </div>
                 <!-- item -->
                 <div class="item">
-                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">Free IP Address
-                  
+                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">1 Dedicated IP
                 </div>
-               
-                 <!-- item -->
+                <!-- item -->
                 <div class="item">
                   <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">Network guarantee
-                  
                 </div>
-                 <!-- item -->
+                <!-- item -->
                 <div class="item">
                   <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">Centralized DDoS Protection
-                  
                 </div>
-                 <!-- item -->
+                <!-- item -->
                 <div class="item">
                   <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">Network uptime guarantee
-                  
                 </div>
-               
               </div>
             </div>
           </div>
@@ -2563,243 +2552,348 @@
             <!-- plan -->
             <div class="plan">
               <!-- plan-title -->
-              <h4 class="plan-title">Agency</h4>
+              <h4 class="plan-title">V4.USA</h4>
               <!-- plan-sub -->
-              <p class="plan-sub">When you need just one site.</p>
+              <p class="plan-sub">Starting from</p>
               <!-- plan-price -->
-              <div class="plan-price">$14.49</div>
-              <div class="plan-price-sub">Normally $14.49 - 1/mo term</div>
+              <div class="plan-price">$30.00</div>
+              <div class="plan-price-sub">Monthly</div>
               <!-- hr -->
               <hr class="my-2">
               <!-- plan-link -->
-              <a href="https://my.lurstanhost.com/store/cloud-vps/agency" class="theme-btn --fill-primary w-100">Buy Now</a>
+              <a href="https://my.lurstanhost.com/store/rdp/v4-usa" class="theme-btn --fill-primary w-100">Buy Now</a>
               <!-- fea-sec -->
-                <div class="fea-sec">
+              <div class="fea-sec">
                 <!-- fea-title -->
                 <h5 class="fea-title">Top Features</h5>
                 <!-- item -->
                 <div class="item">
+                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">Virtualization : KVM
+                </div>
+                <!-- item -->
+                <div class="item">
                   <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">2 Core Processor
-                  
                 </div>
                 <!-- item -->
                 <div class="item">
                   <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">4 GB DDR4 Memory
-                  
                 </div>
                 <!-- item -->
                 <div class="item">
-                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">50 GB Space
-                  
-                </div>
-                
-                  <!-- item -->
-                <div class="item">
-                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">2TB Bandwidth
-                  
+                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">60 GB Disk Space
                 </div>
                 <!-- item -->
                 <div class="item">
-                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">125 Mbps Port Speed
+                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">1 TB Bandwidth
                 </div>
-               
+                <!-- item -->
+                <div class="item">
+                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">10 Gbps Port Speed
+                </div>
               </div>
-            
               <div class="fea-sec">
                 <!-- fea-title -->
                 <h5 class="fea-title">Also Includes</h5>
-               
                 <!-- item -->
                 <div class="item">
                   <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">Operating System
-                  
                 </div>
                 <!-- item -->
                 <div class="item">
-                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">Free IP Address
-                  
+                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">1 Dedicated IP
                 </div>
-               
-                 <!-- item -->
+                <!-- item -->
                 <div class="item">
                   <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">Network guarantee
-                  
                 </div>
-                 <!-- item -->
+                <!-- item -->
                 <div class="item">
                   <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">Centralized DDoS Protection
-                  
                 </div>
-                 <!-- item -->
+                <!-- item -->
                 <div class="item">
                   <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">Network uptime guarantee
-                  
                 </div>
-               
               </div>
             </div>
           </div>
-        
-         
-           <div class="col-xl-2 col-md-6 mb-xl-0 mb-2">
+          <!-- col -->
+          <div class="col-xl-2 col-md-6 mb-xl-0 mb-2">
             <!-- plan -->
             <div class="plan">
               <!-- plan-title -->
-              <h4 class="plan-title">Premium</h4>
+              <h4 class="plan-title">V6.USA</h4>
               <!-- plan-sub -->
-              <p class="plan-sub">When you need just one site.</p>
+              <p class="plan-sub">Starting from</p>
               <!-- plan-price -->
-              <div class="plan-price">$27.49</div>
-              <div class="plan-price-sub">Normally $27.49 - 1/mo term</div>
+              <div class="plan-price">$50.00</div>
+              <div class="plan-price-sub">Monthly</div>
               <!-- hr -->
               <hr class="my-2">
               <!-- plan-link -->
-              <a href="https://my.lurstanhost.com/store/cloud-vps/premium" class="theme-btn --fill-primary w-100">Buy Now</a>
+              <a href="https://my.lurstanhost.com/store/rdp/v6-usa" class="theme-btn --fill-primary w-100">Buy Now</a>
               <!-- fea-sec -->
-            <div class="fea-sec">
+              <div class="fea-sec">
                 <!-- fea-title -->
                 <h5 class="fea-title">Top Features</h5>
                 <!-- item -->
                 <div class="item">
-                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">4 Core Processor
-                  
+                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">Virtualization : KVM
+                </div>
+                <!-- item -->
+                <div class="item">
+                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">2 Core Processor
+                </div>
+                <!-- item -->
+                <div class="item">
+                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">6 GB DDR4 Memory
+                </div>
+                <!-- item -->
+                <div class="item">
+                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">80 GB Disk Space
+                </div>
+                <!-- item -->
+                <div class="item">
+                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">1 TB Bandwidth
+                </div>
+                <!-- item -->
+                <div class="item">
+                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">10 Gbps Port Speed
+                </div>
+              </div>
+              <div class="fea-sec">
+                <!-- fea-title -->
+                <h5 class="fea-title">Also Includes</h5>
+                <!-- item -->
+                <div class="item">
+                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">Operating System
+                </div>
+                <!-- item -->
+                <div class="item">
+                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">1 Dedicated IP
+                </div>
+                <!-- item -->
+                <div class="item">
+                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">Network guarantee
+                </div>
+                <!-- item -->
+                <div class="item">
+                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">Centralized DDoS Protection
+                </div>
+                <!-- item -->
+                <div class="item">
+                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">Network uptime guarantee
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- col -->
+          <div class="col-xl-2 col-md-6 mb-xl-0 mb-2">
+            <!-- plan -->
+            <div class="plan">
+              <!-- plan-title -->
+              <h4 class="plan-title">V8.USA</h4>
+              <!-- plan-sub -->
+              <p class="plan-sub">Starting from</p>
+              <!-- plan-price -->
+              <div class="plan-price">$70.00</div>
+              <div class="plan-price-sub">Monthly</div>
+              <!-- hr -->
+              <hr class="my-2">
+              <!-- plan-link -->
+              <a href="https://my.lurstanhost.com/store/rdp/v8-usa" class="theme-btn --fill-primary w-100">Buy Now</a>
+              <!-- fea-sec -->
+              <div class="fea-sec">
+                <!-- fea-title -->
+                <h5 class="fea-title">Top Features</h5>
+                <!-- item -->
+                <div class="item">
+                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">Virtualization : KVM
+                </div>
+                <!-- item -->
+                <div class="item">
+                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">3 Core Processor
                 </div>
                 <!-- item -->
                 <div class="item">
                   <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">8 GB DDR4 Memory
-                  
                 </div>
                 <!-- item -->
                 <div class="item">
-                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">50 GB Space
-                  
-                </div>
-                
-                  <!-- item -->
-                <div class="item">
-                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">3TB Bandwidth
-                  
+                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">120 GB Disk Space
                 </div>
                 <!-- item -->
                 <div class="item">
-                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">1250 Mbps Port Speed
+                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">1.5 TB Bandwidth
                 </div>
-               
+                <!-- item -->
+                <div class="item">
+                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">10 Gbps Port Speed
+                </div>
               </div>
-            
               <div class="fea-sec">
                 <!-- fea-title -->
                 <h5 class="fea-title">Also Includes</h5>
-               
                 <!-- item -->
                 <div class="item">
                   <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">Operating System
-                  
                 </div>
                 <!-- item -->
                 <div class="item">
-                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">Free IP Address
-                  
+                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">1 Dedicated IP
                 </div>
-               
-                 <!-- item -->
+                <!-- item -->
                 <div class="item">
                   <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">Network guarantee
-                  
                 </div>
-                 <!-- item -->
+                <!-- item -->
                 <div class="item">
                   <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">Centralized DDoS Protection
-                  
                 </div>
-                 <!-- item -->
+                <!-- item -->
                 <div class="item">
                   <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">Network uptime guarantee
-                  
                 </div>
-               
               </div>
             </div>
           </div>
-         
-           <!-- col -->
-           <div class="col-xl-2 col-md-6 mb-xl-0 mb-2">
+          <!-- col -->
+          <div class="col-xl-2 col-md-6 mb-xl-0 mb-2">
             <!-- plan -->
             <div class="plan">
               <!-- plan-title -->
-              <h4 class="plan-title">Enterprise</h4>
+              <h4 class="plan-title">V10.USA</h4>
               <!-- plan-sub -->
-              <p class="plan-sub">When you need just one site.</p>
+              <p class="plan-sub">Starting from</p>
               <!-- plan-price -->
-              <div class="plan-price">$52.49</div>
-              <div class="plan-price-sub">Normally $52.49 - 1/mo </div>
+              <div class="plan-price">$95.00</div>
+              <div class="plan-price-sub">Monthly</div>
               <!-- hr -->
               <hr class="my-2">
               <!-- plan-link -->
-              <a href="https://my.lurstanhost.com/store/cloud-vps/enterprise" class="theme-btn --fill-primary w-100">Buy Now</a>
+              <a href="https://my.lurstanhost.com/store/rdp/v10-usa" class="theme-btn --fill-primary w-100">Buy Now</a>
               <!-- fea-sec -->
               <div class="fea-sec">
                 <!-- fea-title -->
                 <h5 class="fea-title">Top Features</h5>
                 <!-- item -->
                 <div class="item">
-                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">8 Core Processor
-                  
+                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">Virtualization : KVM
                 </div>
                 <!-- item -->
                 <div class="item">
-                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">16 GB DDR4 Memory
-                  
+                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">4 Core Processor
                 </div>
                 <!-- item -->
                 <div class="item">
-                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">50 GB Space
-                  
-                </div>
-                
-                  <!-- item -->
-                <div class="item">
-                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">4TB Bandwidth
-                  
+                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">10 GB DDR4 Memory
                 </div>
                 <!-- item -->
                 <div class="item">
-                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">1250 Mbps Port Speed
+                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">150 GB NVME Space
                 </div>
-               
+                <!-- item -->
+                <div class="item">
+                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">5 TB Bandwidth
+                </div>
+                <!-- item -->
+                <div class="item">
+                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">10 Gbps Port Speed
+                </div>
               </div>
-            
               <div class="fea-sec">
                 <!-- fea-title -->
                 <h5 class="fea-title">Also Includes</h5>
-               
                 <!-- item -->
                 <div class="item">
                   <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">Operating System
-                  
                 </div>
                 <!-- item -->
                 <div class="item">
-                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">Free IP Address
-                  
+                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">1 Dedicated IP
                 </div>
-               
-                 <!-- item -->
+                <!-- item -->
                 <div class="item">
                   <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">Network guarantee
-                  
                 </div>
-                 <!-- item -->
+                <!-- item -->
                 <div class="item">
                   <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">Centralized DDoS Protection
-                  
                 </div>
-                 <!-- item -->
+                <!-- item -->
                 <div class="item">
                   <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">Network uptime guarantee
-                  
                 </div>
-               
+              </div>
+            </div>
+          </div>
+          <!-- col -->
+          <div class="col-xl-2 col-md-6 mb-xl-0 mb-2">
+            <!-- plan -->
+            <div class="plan">
+              <!-- plan-title -->
+              <h4 class="plan-title">V12.USA</h4>
+              <!-- plan-sub -->
+              <p class="plan-sub">Starting from</p>
+              <!-- plan-price -->
+              <div class="plan-price">$120.00</div>
+              <div class="plan-price-sub">Monthly</div>
+              <!-- hr -->
+              <hr class="my-2">
+              <!-- plan-link -->
+              <a href="https://my.lurstanhost.com/store/rdp/v12-usa" class="theme-btn --fill-primary w-100">Buy Now</a>
+              <!-- fea-sec -->
+              <div class="fea-sec">
+                <!-- fea-title -->
+                <h5 class="fea-title">Top Features</h5>
+                <!-- item -->
+                <div class="item">
+                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">Virtualization : KVM
+                </div>
+                <!-- item -->
+                <div class="item">
+                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">5 Core Processor
+                </div>
+                <!-- item -->
+                <div class="item">
+                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">12 GB DDR4 Memory
+                </div>
+                <!-- item -->
+                <div class="item">
+                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">200 GB NVME Space
+                </div>
+                <!-- item -->
+                <div class="item">
+                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">4 TB Bandwidth
+                </div>
+                <!-- item -->
+                <div class="item">
+                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">10 Gbps Port Speed
+                </div>
+              </div>
+              <div class="fea-sec">
+                <!-- fea-title -->
+                <h5 class="fea-title">Also Includes</h5>
+                <!-- item -->
+                <div class="item">
+                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">Operating System
+                </div>
+                <!-- item -->
+                <div class="item">
+                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">1 Dedicated IP
+                </div>
+                <!-- item -->
+                <div class="item">
+                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">Network guarantee
+                </div>
+                <!-- item -->
+                <div class="item">
+                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">Centralized DDoS Protection
+                </div>
+                <!-- item -->
+                <div class="item">
+                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">Network uptime guarantee
+                </div>
               </div>
             </div>
           </div>
