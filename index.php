@@ -2491,7 +2491,7 @@
               <!-- hr -->
               <hr class="my-2">
               <!-- plan-link -->
-              <a href="https://my.lurstanhost.com/store/rdp/v2-usa" class="theme-btn --fill-primary w-100">Buy Now</a>
+              <a href="https://my.lurstanhost.com/store/usa-rdp" class="theme-btn --fill-primary w-100">Buy Now</a>
               <!-- fea-sec -->
               <div class="fea-sec">
                 <!-- fea-title -->
@@ -2561,7 +2561,7 @@
               <!-- hr -->
               <hr class="my-2">
               <!-- plan-link -->
-              <a href="https://my.lurstanhost.com/store/rdp/v4-usa" class="theme-btn --fill-primary w-100">Buy Now</a>
+              <a href="https://my.lurstanhost.com/store/usa-rdp" class="theme-btn --fill-primary w-100">Buy Now</a>
               <!-- fea-sec -->
               <div class="fea-sec">
                 <!-- fea-title -->
@@ -2631,7 +2631,7 @@
               <!-- hr -->
               <hr class="my-2">
               <!-- plan-link -->
-              <a href="https://my.lurstanhost.com/store/rdp/v6-usa" class="theme-btn --fill-primary w-100">Buy Now</a>
+              <a href="https://my.lurstanhost.com/store/usa-rdp" class="theme-btn --fill-primary w-100">Buy Now</a>
               <!-- fea-sec -->
               <div class="fea-sec">
                 <!-- fea-title -->
@@ -2701,7 +2701,7 @@
               <!-- hr -->
               <hr class="my-2">
               <!-- plan-link -->
-              <a href="https://my.lurstanhost.com/store/rdp/v8-usa" class="theme-btn --fill-primary w-100">Buy Now</a>
+              <a href="https://my.lurstanhost.com/store/usa-rdp" class="theme-btn --fill-primary w-100">Buy Now</a>
               <!-- fea-sec -->
               <div class="fea-sec">
                 <!-- fea-title -->
@@ -2771,7 +2771,7 @@
               <!-- hr -->
               <hr class="my-2">
               <!-- plan-link -->
-              <a href="https://my.lurstanhost.com/store/rdp/v10-usa" class="theme-btn --fill-primary w-100">Buy Now</a>
+              <a href="https://my.lurstanhost.com/store/usa-rdp" class="theme-btn --fill-primary w-100">Buy Now</a>
               <!-- fea-sec -->
               <div class="fea-sec">
                 <!-- fea-title -->
@@ -2841,7 +2841,7 @@
               <!-- hr -->
               <hr class="my-2">
               <!-- plan-link -->
-              <a href="https://my.lurstanhost.com/store/rdp/v12-usa" class="theme-btn --fill-primary w-100">Buy Now</a>
+              <a href="https://my.lurstanhost.com/store/usa-rdp" class="theme-btn --fill-primary w-100">Buy Now</a>
               <!-- fea-sec -->
               <div class="fea-sec">
                 <!-- fea-title -->
