@@ -1529,17 +1529,22 @@
              
                 <!-- item -->
                 <div class="item">
-                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">4 Core Processor
+                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">1 Core Processor
                   
                 </div>
                 <!-- item -->
                 <div class="item">
-                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">1 GB DDR4 Memory
+                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">2 GB DDR4 Memory
                   
                 </div>
                 <!-- item -->
                 <div class="item">
                   <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">30 GB Disk Space
+                  
+                </div>
+                <!-- item -->
+                <div class="item">
+                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">2 TB Bandwidth
                   
                 </div>
                  <!-- item -->
@@ -1549,7 +1554,7 @@
                 </div>
                 <!-- item -->
                 <div class="item">
-                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">100 Mbps / 2TB Port Speed
+                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">100 Gbps Port Speed
                 </div>
                
               </div>
@@ -1597,8 +1602,8 @@
               <!-- plan-sub -->
               <p class="plan-sub">When you need just one site.</p>
               <!-- plan-price -->
-              <div class="plan-price">$29.00</div>
-              <div class="plan-price-sub">Normally $29.00 - 1/mo term</div>
+              <div class="plan-price">$25.00</div>
+              <div class="plan-price-sub">Normally $25.00 - 1/mo term</div>
               <!-- hr -->
               <hr class="my-2">
               <!-- plan-link -->
@@ -1610,17 +1615,22 @@
               
                 <!-- item -->
                 <div class="item">
-                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">4 Core Processor
+                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">1 Core Processor
                   
                 </div>
                 <!-- item -->
                 <div class="item">
-                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">2 GB DDR4 Memory
+                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">4 GB DDR4 Memory
                   
                 </div>
                 <!-- item -->
                 <div class="item">
-                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">40 GB Disk Space
+                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">50 GB Disk Space
+                  
+                </div>
+                <!-- item -->
+                <div class="item">
+                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">1 TB Bandwidth
                   
                 </div>
                  <!-- item -->
@@ -1630,7 +1640,7 @@
                 </div>
                 <!-- item -->
                 <div class="item">
-                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">200 Mbps / 3TB Port Speed
+                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">10 Gbps Port Speed
                 </div>
                
               </div>
@@ -1678,8 +1688,8 @@
               <!-- plan-sub -->
               <p class="plan-sub">When you need just one site.</p>
               <!-- plan-price -->
-              <div class="plan-price">$45.00</div>
-              <div class="plan-price-sub">Normally $$45.00 - 1/mo term</div>
+              <div class="plan-price">$35.00</div>
+              <div class="plan-price-sub">Normally $35.00 - 1/mo term</div>
               <!-- hr -->
               <hr class="my-2">
               <!-- plan-link -->
@@ -1691,17 +1701,22 @@
               
                 <!-- item -->
                 <div class="item">
-                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">6 Core Processor
+                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">2 Core Processor
                   
                 </div>
                 <!-- item -->
                 <div class="item">
-                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">4 GB DDR4 Memory
+                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">6 GB DDR4 Memory
                   
                 </div>
                 <!-- item -->
                 <div class="item">
-                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">50 GB Disk Space
+                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">70 GB Disk Space
+                  
+                </div>
+                <!-- item -->
+                <div class="item">
+                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">5 TB Bandwidth
                   
                 </div>
                  <!-- item -->
@@ -1711,7 +1726,7 @@
                 </div>
                 <!-- item -->
                 <div class="item">
-                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">200 Mbps / 5TB Port Speed
+                  <img src="assets/images/icons/checked.png" class="img-fluid mr--sm-2" alt="Icon">10 Gbps Port Speed
                 </div>
                
               </div>
